@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 60%;
+    margin: auto;
+}
+header {
+    height: 350px;
+}
+.header_1 {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.header_1 a {
+    text-decoration: none;
+}
+.header_1 img {
+    width: 30px;
+}
+.header_2 {
+    height: 100px;
+}
+.header_3 {
+    height: 100px;
+}
